@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Paul Neufeld
 - 👀 I’m interested in beconming employed as a developer.
 - 🌱 I’m currently learning Javascript, html, css, and python. Taking courses from Moralis Academy and freecodecamp.com
-- 💞️ I’m looking to collaborate on projects. Very excited about the possiblies of blockchain
+- 💞️ I’m looking to collaborate on projects. Very excited about the possibilities of blockchain
 - 📫 You can reach me at neufeld.paul@gmail.com
 
 <!---
